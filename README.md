@@ -46,4 +46,4 @@ Notice that the scale on the left maxes out at 0.20 inches of rain!
 ### Comparison of percentage of mostly sunny days in June and December
 ![pct mostly sunny bar graph](https://github.com/mgsrichard/surfs_up/blob/main/Resources/avg_pct_sunny_compare.png)
 
-For the purposes of this graph, a day is considered mostly sunny if it received 0.015 inches of rain or less.
+For the purposes of this graph, a day is considered mostly sunny if it received 0.15 inches of rain or less.
