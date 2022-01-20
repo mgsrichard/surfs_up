@@ -30,7 +30,7 @@ Oahu is the perfect place for a surf and shake shop.  It never gets really cold 
 ![decem prcp](https://github.com/mgsrichard/surfs_up/blob/main/Resources/December_prcp_stats.png)
 
 ### Precipitation Analysis
-Again, we can see that there is very little difference in the weather measurements.  On average, there is 0.1 more inches of rain on the average December day than on the average June day. The 50th percentile for both months is 0, which means that there is no measurable rain at all on at least half of the days in both months.
+Again, we can see that there is very little difference in the weather measurements.  On average, there is 0.1 more inches of rain on the average December day than on the average June day. 
 
 ## Side by Side
 Finally, let's look at some graphs side by side and see how very similar the weather is in June and December in Oahu.
