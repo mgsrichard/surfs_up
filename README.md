@@ -7,7 +7,7 @@ This week we have been assisting W. Avy in his dream of opening a Surf and Shake
 
 
 ### Results:
-The statistical analysis shows that Oahu has remarkably homogenous weather.  This is great news for W. Avy, who will be able to demonstrate conclusively that the weather will not deter surfers or ice cream eaters on most days. December is slightly cooler, wetter, and less sunny than June. Below are summary statistics for June and December temperatures.
+The statistical analysis shows that Oahu has remarkably homogenous weather.  This is great news for W. Avy, who will be able to demonstrate conclusively that the weather will not deter surfers or ice cream eaters on most days. December is slightly cooler and rainier than June. Below are summary statistics for June and December temperatures.
 
 #### June Temperatures Summary Statistics
 ![june stats](https://github.com/mgsrichard/surfs_up/blob/main/Resources/June_temps_stats.png)
@@ -43,7 +43,7 @@ Finally, let's look at some graphs side by side and see how very similar the wea
 
 Notice that the scale on the left maxes out at 0.20 inches of rain!
 
-### Comparison of percentage of mostly sunny days in June and December
+### Comparison of percentage of days with less than 0.15 inches of rain in June and December
 ![pct mostly sunny bar graph](https://github.com/mgsrichard/surfs_up/blob/main/Resources/avg_pct_sunny_compare.png)
 
-For the purposes of this graph, a day is considered mostly sunny if it received 0.15 inches of rain or less.
+
